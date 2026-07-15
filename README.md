@@ -1,2 +1,0 @@
-# nishitaivy.github.io
-Portfolio
